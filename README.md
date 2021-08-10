@@ -1,6 +1,6 @@
 Unity - GoogleDrive Connection
 
-Explains how to connect google drive with Unity.
+Explains how to connect Google Drive with Unity.
 
 * In this project you will see how to set file link between your Unity project and any Google Drive account.
 * All links in project and json file are "direct links". Any "Google Drive Direct Link Generator" can be used to get these links.
